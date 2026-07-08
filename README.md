@@ -42,7 +42,3 @@ Cybersecurity Graduate with a strong interest in Security Operations Center (SOC
 I am continuously expanding my practical experience through hands-on investigations, cybersecurity labs, and real-world projects while building a professional SOC portfolio.
 
 Thank you for visiting my portfolio.
-
-I am continuously building hands-on experience through practical investigations, labs, and cybersecurity projects.
-
-Thank you for visiting my portfolio!
