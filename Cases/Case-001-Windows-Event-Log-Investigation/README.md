@@ -1,7 +1,6 @@
 🛡️ Case #001 – Windows Event Log Investigation
 
-Executive Summary:
-
+📖 Executive Summary:
 This investigation focused on analyzing Windows Event Logs to identify suspicious activity, collect evidence, and document the findings following a structured SOC investigation process.
 
 ---
@@ -29,6 +28,14 @@ Environment:
 
 ---
 
+🛠️ Tools Used:
+
+- Windows Event Viewer
+- Windows Security Logs
+- GitHub
+
+---
+
 Investigation Process:
 
 1. Open Event Viewer.
@@ -42,7 +49,14 @@ Investigation Process:
 
 Evidence:
 
-Screenshots and investigation notes are included with this case.
+All supporting evidence is included in the attached investigation report.
+---
+
+📄 Investigation Report:
+
+The complete investigation report is available here:
+
+📥 **[View Full Investigation Report](Reports/Case-001-Windows-Event-Log-Investigation.pdf)**
 
 ---
 
@@ -67,3 +81,9 @@ Lessons Learned:
 - Importance of Windows Event Logs during investigations.
 - How event correlation improves incident analysis.
 - The value of structured documentation in SOC operations.
+
+---
+
+Thank you for viewing this investigation.
+
+More cybersecurity investigation cases will be added as I continue building my SOC portfolio.
