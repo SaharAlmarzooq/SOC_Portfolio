@@ -4,12 +4,24 @@ Welcome to my SOC Investigation Portfolio!
 
 This repository showcases hands-on cybersecurity investigations and Blue Team projects completed as part of my learning journey toward becoming a Security Operations Center (SOC) Analyst.
 
+---
+
+📚 Portfolio Progress
+
+- ✅ Completed Cases: **1**
+- 🚧 Cases in Progress: **0**
+- 📅 Planned Cases: **Coming Soon**
+
+---
+
 🎯 Objectives:
 
 - Develop practical SOC investigation skills
 - Practice log analysis and incident investigation
 - Improve technical documentation
 - Build a professional cybersecurity portfolio
+
+---
 
 🛠️ Skills:
 
