@@ -1,6 +1,6 @@
 🛡️ SOC Portfolio
 
-Welcome to my SOC Portfolio!
+Welcome to my SOC Investigation Portfolio!
 
 This repository showcases hands-on cybersecurity investigations and Blue Team projects completed as part of my learning journey toward becoming a Security Operations Center (SOC) Analyst.
 
@@ -27,18 +27,29 @@ This repository showcases hands-on cybersecurity investigations and Blue Team pr
 📂 Investigation Cases:
 
 | Case | Topic | Status |
-|------|-------|--------|
-| Case #001 | Windows Event Log Investigation | ✅ Completed |
-| Case #002 | Splunk Log Investigation | 🚧 In Progress |
-| Case #003 | Brute Force Detection | ⏳ Planned |
-| Case #004 | Network Traffic Analysis | ⏳ Planned |.
+|------|-------------------------------|---------|
+| [Case #001](Cases/Case-001-Windows-Event-Log-Investigation) | Windows Event Log Investigation | ✅ Completed |
 
 ---
 
-📌 About Me:
+📌 Repository Structure
 
-Cybersecurity Graduate with a strong interest in Security Operations Center (SOC), Blue Team Operations, and Threat Detection.
+```text
+SOC_Portfolio/
+│
+├── README.md
+│
+└── Cases/
+    └── Case-001-Windows-Event-Log-Investigation/
+        ├── README.md
+        └── Reports/
+            └── Case-001-Windows-Event-Log-Investigation.pdf
+```
 
-I am continuously expanding my practical experience through hands-on investigations, cybersecurity labs, and real-world projects while building a professional SOC portfolio.
+📌 About Me
 
-Thank you for visiting my portfolio.
+Cybersecurity Graduate passionate about Security Operations Center (SOC), Blue Team Operations, Threat Detection, and Digital Forensics.
+
+This repository showcases my hands-on investigations, cybersecurity labs, and practical projects as I continue developing my technical skills and building a professional SOC portfolio.
+
+Thank you for visiting my portfolio!
