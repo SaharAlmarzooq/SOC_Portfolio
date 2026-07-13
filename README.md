@@ -2,7 +2,7 @@
 
 Welcome to my SOC Investigation Portfolio!
 
-This repository showcases hands-on cybersecurity investigations and Blue Team projects completed as part of my learning journey toward becoming a Security Operations Center (SOC) Analyst.
+This repository documents my practical cybersecurity investigations, security labs, and Blue Team projects as I continue developing my SOC Analyst skills.
 
 ---
 
@@ -25,14 +25,14 @@ This repository showcases hands-on cybersecurity investigations and Blue Team pr
 
 🛠️ Skills:
 
-- Windows Event Log Analysis
-- Splunk
-- Incident Investigation
-- Threat Detection
-- Log Correlation
-- Digital Forensics
-- Python
-- Blue Team Operations
+Windows Event Log Analysis.
+Incident Investigation.
+Threat Detection.
+Log Correlation.
+Digital Forensics.
+Blue Team Operations.
+Splunk.
+Python.
 
 ---
 
