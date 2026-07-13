@@ -1,12 +1,12 @@
 🛡️ SOC Portfolio
 
-Welcome to my SOC Investigation Portfolio!
+Welcome to my SOC Investigation Portfolio.
 
 This repository documents my practical cybersecurity investigations, security labs, and Blue Team projects as I continue developing my SOC Analyst skills.
 
 ---
 
-📚 Portfolio Progress
+📚 Portfolio Progress:
 
 - ✅ Completed Cases: **1**
 - 🚧 Cases in Progress: **0**
@@ -16,10 +16,10 @@ This repository documents my practical cybersecurity investigations, security la
 
 🎯 Objectives:
 
-- Develop practical SOC investigation skills
-- Practice log analysis and incident investigation
-- Improve technical documentation
-- Build a professional cybersecurity portfolio
+- Develop practical SOC investigation skills.
+- Practice log analysis and incident investigation.
+- Improve technical documentation.
+- Build a professional cybersecurity portfolio.
 
 ---
 
@@ -44,7 +44,7 @@ Python.
 
 ---
 
-📌 Repository Structure
+📌 Repository Structure:
 
 ```text
 SOC_Portfolio/
@@ -58,10 +58,10 @@ SOC_Portfolio/
             └── Case-001-Windows-Event-Log-Investigation.pdf
 ```
 
-📌 About Me
+📌 About Me:
 
 Cybersecurity Graduate passionate about Security Operations Center (SOC), Blue Team Operations, Threat Detection, and Digital Forensics.
 
 This repository showcases my hands-on investigations, cybersecurity labs, and practical projects as I continue developing my technical skills and building a professional SOC portfolio.
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio.
