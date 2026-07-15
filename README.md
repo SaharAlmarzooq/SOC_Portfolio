@@ -1,67 +1,96 @@
-🛡️ SOC Portfolio
+# 🛡️ SOC Portfolio
 
-Welcome to my SOC Investigation Portfolio.
+Welcome to my Security Operations Center (SOC) Portfolio.
 
-This repository documents my practical cybersecurity investigations, security labs, and Blue Team projects as I continue developing my SOC Analyst skills.
+This portfolio showcases hands-on cybersecurity investigations that demonstrate practical skills in Blue Team operations, Windows log analysis, phishing investigations, incident response, and technical documentation.
 
----
-
-📚 Portfolio Progress:
-
-- ✅ Completed Cases: **1**
-- 🚧 Cases in Progress: **0**
-- 📅 Planned Cases: **Coming Soon**
+Each investigation follows a structured SOC methodology, including evidence collection, analysis, risk assessment, analyst conclusions, recommendations, and lessons learned.
 
 ---
 
-🎯 Objectives:
+# Investigation Cases
 
-- Develop practical SOC investigation skills.
-- Practice log analysis and incident investigation.
-- Improve technical documentation.
-- Build a professional cybersecurity portfolio.
-
----
-
-🛠️ Skills:
-
-Windows Event Log Analysis.
-Incident Investigation.
-Threat Detection.
-Log Correlation.
-Digital Forensics.
-Blue Team Operations.
-Splunk.
-Python.
+| Case | Description | Status |
+|------|-------------|--------|
+| 🛡️ Case #001 | Windows Event Log Investigation | ✅ Completed |
+| 🎵 Case #002 | Spotify Phishing Email Analysis | ✅ Completed |
 
 ---
 
-📂 Investigation Cases:
+# Repository Collection
 
-| Case | Topic | Status |
-|------|-------------------------------|---------|
-| [Case #001](Cases/Case-001-Windows-Event-Log-Investigation) | Windows Event Log Investigation | ✅ Completed |
+## 🛡️ Case #001 – Windows Event Log Investigation
+
+Investigated Windows Security Event Logs using Windows Event Viewer to analyze authentication events, examine Event IDs, collect evidence, and document findings following a structured SOC investigation process.
+
+🔗 Repository
+
+https://github.com/SaharAlmarzooq/Case-001-Windows-Event-Log-Investigation
 
 ---
 
-📌 Repository Structure:
+## 🎵 Case #002 – Spotify Phishing Email Analysis
 
-```text
-SOC_Portfolio/
-│
-├── README.md
-│
-└── Cases/
-    └── Case-001-Windows-Event-Log-Investigation/
-        ├── README.md
-        └── Reports/
-            └── Case-001-Windows-Event-Log-Investigation.pdf
-```
+Performed a SOC-style investigation of a phishing email impersonating Spotify by verifying the sender, inspecting embedded URLs, identifying Indicators of Compromise (IOCs), and assessing the overall security risk.
 
-📌 About Me:
+🔗 Repository
 
-Cybersecurity Graduate passionate about Security Operations Center (SOC), Blue Team Operations, Threat Detection, and Digital Forensics.
+https://github.com/SaharAlmarzooq/Case-002-Spotify-Phishing-Email
 
-This repository showcases my hands-on investigations, cybersecurity labs, and practical projects as I continue developing my technical skills and building a professional SOC portfolio.
+---
 
-Thank you for visiting my portfolio.
+# Skills Demonstrated
+
+- Windows Event Log Analysis
+- Email Analysis
+- Phishing Detection
+- Social Engineering Analysis
+- Security Monitoring
+- Log Correlation
+- Incident Investigation
+- Evidence Collection
+- IOC Identification
+- Risk Assessment
+- Technical Documentation
+
+---
+
+# Tools Used
+
+- Windows Event Viewer
+- Windows Security Logs
+- GitHub
+
+---
+
+# Investigation Methodology
+
+Each investigation follows a consistent workflow:
+
+1. Define the investigation scenario.
+2. Collect evidence.
+3. Analyze available artifacts.
+4. Identify suspicious indicators.
+5. Assess the overall risk.
+6. Document investigation findings.
+7. Provide recommendations and lessons learned.
+
+---
+
+# Portfolio Goals
+
+This repository documents my continuous hands-on learning journey in Security Operations Center (SOC) investigations and Blue Team practices.
+
+New investigation cases will be added as I continue expanding my practical cybersecurity skills.
+
+---
+
+# Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/sahar-almarzooq/
+
+### GitHub
+
+https://github.com/SaharAlmarzooq
