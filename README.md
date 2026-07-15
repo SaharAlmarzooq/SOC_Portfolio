@@ -17,25 +17,12 @@ Each investigation follows a structured SOC methodology, including evidence coll
 
 ---
 
-# Repository Collection
+# Investigation Cases
 
-## 🛡️ Case #001 – Windows Event Log Investigation
-
-Investigated Windows Security Event Logs using Windows Event Viewer to analyze authentication events, examine Event IDs, collect evidence, and document findings following a structured SOC investigation process.
-
-🔗 Repository
-
-https://github.com/SaharAlmarzooq/Case-001-Windows-Event-Log-Investigation
-
----
-
-## 🎵 Case #002 – Spotify Phishing Email Analysis
-
-Performed a SOC-style investigation of a phishing email impersonating Spotify by verifying the sender, inspecting embedded URLs, identifying Indicators of Compromise (IOCs), and assessing the overall security risk.
-
-🔗 Repository
-
-https://github.com/SaharAlmarzooq/Case-002-Spotify-Phishing-Email
+| Case | Description | Status |
+|------|-------------|--------|
+| 🛡️ **[Case #001 – Windows Event Log Investigation](https://github.com/SaharAlmarzooq/Case-001-Windows-Event-Log-Investigation)** | Windows Security Event Log investigation demonstrating event filtering, authentication analysis, evidence collection, and structured incident documentation. | ✅ Completed |
+| 🎵 **[Case #002 – Spotify Phishing Email Analysis](https://github.com/SaharAlmarzooq/Case-002-Spotify-Phishing-Email)** | SOC-style investigation of a phishing email impersonating Spotify, including sender verification, URL inspection, IOC identification, and risk assessment. | ✅ Completed |
 
 ---
 
