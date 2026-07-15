@@ -4,11 +4,11 @@ Welcome to my Security Operations Center (SOC) Portfolio.
 
 This portfolio showcases hands-on cybersecurity investigations that demonstrate practical skills in Blue Team operations, Windows log analysis, phishing investigations, incident response, and technical documentation.
 
-Each investigation follows a structured SOC methodology, including evidence collection, analysis, risk assessment, analyst conclusions, recommendations, and lessons learned.
+Each investigation follows a structured SOC investigation methodology, including evidence collection, analysis, risk assessment, analyst conclusions, recommendations, and lessons learned.
 
 ---
 
-# Investigation Cases
+## 📂 Investigation Cases
 
 | Case | Description | Status |
 |------|-------------|--------|
@@ -17,7 +17,7 @@ Each investigation follows a structured SOC methodology, including evidence coll
 
 ---
 
-# Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
 - Windows Event Log Analysis
 - Email Analysis
@@ -33,7 +33,7 @@ Each investigation follows a structured SOC methodology, including evidence coll
 
 ---
 
-# Tools Used
+## 💻 Tools Used
 
 - Windows Event Viewer
 - Windows Security Logs
@@ -41,7 +41,7 @@ Each investigation follows a structured SOC methodology, including evidence coll
 
 ---
 
-# Investigation Methodology
+## 🔍 Investigation Methodology
 
 Each investigation follows a consistent workflow:
 
@@ -55,7 +55,7 @@ Each investigation follows a consistent workflow:
 
 ---
 
-# Portfolio Goals
+## 🎯 Portfolio Goals
 
 This repository documents my continuous hands-on learning journey in Security Operations Center (SOC) investigations and Blue Team practices.
 
@@ -63,12 +63,12 @@ New investigation cases will be added as I continue expanding my practical cyber
 
 ---
 
-# Connect With Me
+## 🤝 Connect With Me
 
 ### LinkedIn
 
-https://www.linkedin.com/in/sahar-almarzooq/
+**https://www.linkedin.com/in/sahar-almarzooq/**
 
 ### GitHub
 
-https://github.com/SaharAlmarzooq
+**https://github.com/SaharAlmarzooq**
